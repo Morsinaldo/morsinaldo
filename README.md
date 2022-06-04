@@ -1,7 +1,8 @@
 ### Hello, I'm Morsinaldo de Azevedo Medeiros.
 
-- 🔭 I’m currently working on Internet of Things and Android development
-- 🌱 I’m currently learning Kotlin
+- 🔥 I'm enthusiastic in the field of Data Science and Machine Learning
+- 🔭 I’m currently working on Internet of Things, Android development and Machine Learning
+- 🌱 I’m currently learning Kotlin and Tensorflow
 - 📫 How to reach me: morsinaldo.medeiros.075@ufrn.edu.br
 
 <div align="center">

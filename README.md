@@ -14,6 +14,8 @@ My name is **Morsinaldo Medeiros** and I am graduating in **Computer Engineering
 
 - [From classic models to production models (co-author)](https://medium.com/@alessandro.pereira.700/from-classic-models-to-production-models-8d4ab873ac4d)
 
+- [From Notebooks to Scripts](https://medium.com/@morsinaldo.medeiros.075/from-notebooks-to-scripts-28332f3e93d9)
+
 <!-- ARTICLES:END -->
 
 ---

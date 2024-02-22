@@ -16,6 +16,8 @@ My name is **Morsinaldo Medeiros** and I am graduating in **Computer Engineering
 
 - [From Notebooks to Scripts](https://medium.com/@morsinaldo.medeiros.075/from-notebooks-to-scripts-28332f3e93d9)
 
+- [Uncovering the Eyes of Autonomous Cars: A Journey through Udacity’s Sensor Fusion NanoDegree Course](https://medium.com/@morsinaldo.medeiros.075/uncovering-the-eyes-of-autonomous-cars-a-journey-through-udacitys-sensor-fusion-nanodegree-course-edd66ae7b067) 
+
 <!-- ARTICLES:END -->
 
 ---
